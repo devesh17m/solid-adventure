@@ -2450,5 +2450,22 @@ color: #000000;
           margin-top: 35vh;
           /* display: none; */
       }
+      .card1{
+        width: 70vw;
+        margin-left: 20%;
+      }
+      .gajar{
+        margin-left: 35%;
+        margin-top: 3%;
+      }
+      .card2{
+        width: 70vw;
+        margin-left: 20%;
+
+      }
+      .card3{
+        width: 70vw;
+        margin-left: 20%;
+      }
 
   }
